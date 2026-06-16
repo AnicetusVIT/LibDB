@@ -1,4 +1,4 @@
-# LibDB: High-Performance Async Library Resource Engine 🚀
+# LibDB: High-Performance Async Library Resource Engine 
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
