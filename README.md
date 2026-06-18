@@ -229,4 +229,4 @@ Navigate to `http://localhost:8000/docs` to access the interactive Swagger UI.
 
 ---
 
-*Author: [Anicetus_7]* *Developed as part of an end-to-end distributed system architecture deep-work sprint.*
+*Author: [Anicetus_7]* *Developed as part of the MongoDB Database Administrator FACE-prep course.*
