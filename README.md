@@ -1,4 +1,4 @@
-# LibDB: High-Performance Async Library Resource Engine 🚀
+# LibDB: High-Performance Async Library Resource Engine 
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
@@ -229,4 +229,4 @@ Navigate to `http://localhost:8000/docs` to access the interactive Swagger UI.
 
 ---
 
-*Author: [Anicetus_7]* *Developed as part of an end-to-end distributed system architecture deep-work sprint.*
+*Author: [Anicetus_7]* *Developed as part of the MongoDB Database Administrator FACE-prep course.*
